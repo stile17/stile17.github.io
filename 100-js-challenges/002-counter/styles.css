@@ -1,0 +1,7 @@
+.container {
+  text-align: center;
+}
+#value {
+  font-size: 6rem;
+  font-weight: bold;
+}
